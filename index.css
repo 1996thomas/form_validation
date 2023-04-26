@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+form{
+
+    display: flex;
+    flex-direction: column;
+    max-width: 25rem;
+    justify-content: center;
+    width: 100%;
+
+}
+
+input{
+    display: flex;
+    width: 100%;
+}
+
+
